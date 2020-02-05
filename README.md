@@ -9,7 +9,7 @@ This repository has code related to daVinci Research Kit (dVRK) V-REP simulator.
 # Install
 The repository contains both some V-REP scenes and ROS code to control the simulated dvrk-ros
 * Download V-REP from the official webpage: http://www.coppeliarobotics.com/
-* To use the simulator with ROS download and compile the V-REP ROS interface as described in: https://github.com/CoppeliaRobotics/v_repExtRosInterface
+* To use the simulator with ROS download and compile the V-REP ROS interface as described in: https://github.com/CoppeliaRobotics/simExtROSInterface
 * Compile the catkin workspace folder using catkin build tools, NOT catkin_make. Please don't use catkin_make.
 
 # List of Folders:
